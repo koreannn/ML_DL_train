@@ -1,0 +1,2 @@
+# ignore MNIST dataset files
+data/MNIST/raw/*
